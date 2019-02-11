@@ -1,6 +1,6 @@
 ---
 layout: post
-title: « Travailler sur soi » 
+title: Travailler sur soi
 date:   2018-05-22
 categories: [pensee]
 ---
