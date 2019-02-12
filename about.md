@@ -2,7 +2,7 @@
 layout: page
 title: À propos
 subtitle: 
-permalink: /about/
+permalink: /apropos/
 ---
 
 Père, enseignant et libre-penseur.
