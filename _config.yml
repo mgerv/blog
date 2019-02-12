@@ -3,7 +3,7 @@ title: Michel Gervais
 description: >
   Père, enseignant et libre-penseur.
 
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://gerv.me" # the base hostname & protocol for your site
 
 author:
