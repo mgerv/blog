@@ -3,8 +3,8 @@ title: Michel Gervais
 description: >
   Père, enseignant et libre-penseur.
 
-baseurl: "/gervme/" # the subpath of your site, e.g. /blog/
-url: "https://mgerv.github.io" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://mgerv.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Michel Gervais
