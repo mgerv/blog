@@ -1,7 +1,0 @@
----
-layout: post
-title: La solitude
-date:   2018-05-25
-categories: [pensee]
----
-Je ne souhaite à personne de vivre la solitude. Être seul parfois, ça fait du bien. Mais être seul souvent, c’est dur.

@@ -4,4 +4,4 @@ title: Amour
 date:   2019-02-14
 categories: [pensee]
 ---
-L’amour est une action, pas un sentiment.
+L’amour est une décision, pas un sentiment.
